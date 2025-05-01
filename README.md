@@ -40,7 +40,7 @@ In order to use the code as it currently is, you will also need to follow the in
 
 ### Datasets
 
-Follow the instructions in https://github.com/dmcinerney/preprocessing-ehr to download and preprocess the MIMIC-III dataset.
+Follow the instructions in https://github.com/tandonkunal9/project-ehr-modifications.git to download and preprocess the MIMIC-III dataset.
 
 ### Training
 
